@@ -1,0 +1,4 @@
+Preprocessing Techniques: Code to display what a particular preprocessing transformation does.
+Single Image Preprocessing: Code for preprocessing a single image.
+Image Preprocessing CNN, ViT, SWIN: Code for preprocessing an image concerning the model.
+Batch Preprocessing: Code for preprocessing multiple images(small dataset) uploaded as a zip.
