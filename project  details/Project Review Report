@@ -1,0 +1,51 @@
+Project Review Report by Srikanth Sir
+
+**Project Review meeting 1 - March 3, 2025**
+Atendee - Jithender
+Agenda
+  Review of current project progress for multiple student groups
+  Discussion of roadblocks and challenges
+  Planning for next week's deliverables
+  Clarification of project requirements
+Discussion Points
+  Group G390 - Stale Food Detection Project
+    The team is working on understanding CNN as the initial foundation
+    Prof. Sanjana has advised all team members to individually work on CNN models before moving to more advanced approaches
+    Planning to implement vision transformers after CNN understanding is solid
+    Team has identified datasets but awaiting final confirmation
+    Currently no major roadblocks reported
+Decisions Made
+  Computational Resources: Instructor confirmed TANTHIC servers will be made available through admin dashboard for intensive training
+  Data Reduction Strategy: Teams should use 20% of original datasets for initial framework development
+  Next Week Deliverable: All groups to demonstrate CNN models next week
+Next Steps
+  Teams to present prototypes/demonstrations in the next meeting
+  Develop architecture diagrams to clarify workflow
+  Explore alternative computing resources like Lightning AI for model training
+  For groups with unclear workflows: finalize business use cases and technicalapproaches
+key Point
+Computational resource challenges were discussed, with Google Colab instances crashing during training. 
+The instructor suggested reducing dataset size to 20% for testing functionality rather than aiming for accuracy initially, 
+and mentioned that TANTRIK servers would be made available through an admin dashboard for future training needs.
+
+
+**Project Review meeting 2 - Apr 23, 2025**
+Atendee- Anjali
+Agenda
+  Project updates on Stale Food Detection and Crime Scene Investigator
+  Discussion on model development, integration, and roadblocks
+Discussion Points
+  Multiple teams are working on Stale Food Detection using various models (CNN, VIT, Swin Transformers)
+  Facing overfitting issues and need to train on larger datasets
+  Prioritizing architecture and API integration over high accuracy
+  Some teams are building models from scratch for learning purposes, despite havingpre-trained models available
+Action Items
+  Teams need to focus on API integration and connecting their models to frontend/backend systems
+  Anjali (G390): Complete API integration for Stale Food Detection
+Decisions Made
+  60% accuracy is considered sufficient for the projects
+  Teams should prioritize architecture and integration over pursuing higher accuracy
+Next Steps
+  Complete API integration and frontend/backend connections
+  Expand object detection capabilities for Crime Scene Investigator projects
+  Address computational constraints for video analysis team
