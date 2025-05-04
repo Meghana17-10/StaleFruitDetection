@@ -1,3 +1,4 @@
+---------------------MILESTONE-1---------------------
 **INITIAL**
 This  are points to be covered in 1st  video presentation 
 1.Understanding the research paper
@@ -28,3 +29,17 @@ How many roles of users would be involved in your application? How would the use
 What are the datasets used in your project? Data sources? How do you propose to preprocess (verify, validate, normalise) the data?
 What is the tech stack that are you proposing to use in your project? Will the app be deployed on the cloud? 
 All of these should be shown on a basic architecture diagram.
+
+
+
+---------------------MILESTONE-2---------------------
+Please find below the key points to cover in the Milestone 2 video:
+1. Working prototype/demo fully developed and functioning
+2. Showcase application with relevant code snippets
+3. Major learnings gained during project implementation
+4. Explanation of any changes made from the initial architecture diagram
+5. Confirmation of whether we achieved what was promised in the first milestone recording
+6. Challenges or hurdles faced during project execution
+7. Reason for choosing the specific model/LLM used in the project
+8. Other models/LLMs considered and reasons for not choosing them
+9. Deployment decisions and approach taken
