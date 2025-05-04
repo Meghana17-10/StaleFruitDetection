@@ -1,0 +1,30 @@
+**INITIAL**
+This  are points to be covered in 1st  video presentation 
+1.Understanding the research paper
+    1. Abstract, Conclusion
+    2. Proposed Methodology
+    3. Find the Problems
+    4. Which evaluation parametrs used
+    5.Limitations
+2. Understand the Technology used in Research Paper
+3. Scope of Project
+    1. Basic Undersating on Scope of the project
+    2. What business case does the project adddress
+    3. Who are the typical users of the solution
+    4. How does the solution help those users? 
+4. Technology using in your Project  
+    1. Frond end
+    2. Back end
+    3. Databases
+    4. AI Models
+5. Summary of Research paper
+    1. Summary of research paper
+    2. Tabular format of summary that includes Model used, Datasets and Results
+
+**FINAL**
+What is your basic understanding of what your application would do at the end of the semester? What business problem does the project address? 
+Who are the typical users of the solution? How does it make them more productive and/or solve their 'pain points'?
+How many roles of users would be involved in your application? How would the users interact with the application - input and output?
+What are the datasets used in your project? Data sources? How do you propose to preprocess (verify, validate, normalise) the data?
+What is the tech stack that are you proposing to use in your project? Will the app be deployed on the cloud? 
+All of these should be shown on a basic architecture diagram.
