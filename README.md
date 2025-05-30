@@ -60,9 +60,9 @@ Technology Stack
 🔗 [Stale Fruit Detection Web App]: https://stalefruitdetection.vercel.app/
 
   **Features:**  
-- 🖼 Upload any fruit image  
-- 🧠 Get a **Fresh / Stale** prediction  
-- ⚡ Instant results using Swin Transformer  
+- Upload any fruit image  
+- Get a **Fresh / Stale** prediction  
+- Instant results using Swin Transformer  
 
 ## Key Features  
 - Multi-Model Comparison: Results from ViT, Swin, and Hybrid models displayed side-by-side.
