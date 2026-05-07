@@ -31,7 +31,7 @@ app.add_middleware(
 )
 
 # MongoDB Atlas connection with SSL
-uri = os.getenv("MONGO_URI", "mongodb+srv://meghanajala07:8xfoAY2re2lxeB56@stalefruit.bydap9i.mongodb.net/?retryWrites=true&w=majority&appName=StaleFruit&tls=true")
+uri = os.getenv("MONGO_URI")
 client = MongoClient(uri, tlsCAFile=certifi.where())
 db = client["StaleFruit"]
 users_collection = db["users"]
