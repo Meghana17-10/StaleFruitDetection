@@ -33,3 +33,7 @@ backend/venv/
 # Ignore other big files you want, e.g. DLLs, libs
 backend/venv/Lib/site-packages/torch/lib/*.dll
 backend/venv/Lib/site-packages/torch/lib/*.lib
+
+# Ignore env files
+.env
+*.env
